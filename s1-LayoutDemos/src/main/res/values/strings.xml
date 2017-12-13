@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayoutDemos</string>
+
+    <string name="linear">Linear Layout</string>
+    <string name="relative">Relative Layout</string>
+    <string name="frame">Frame Layout</string>
+    <string name="table">Table Layout</string>
+</resources>

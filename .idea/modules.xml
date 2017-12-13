@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-HelloWorld/1-Helloworld.iml" filepath="$PROJECT_DIR$/1-HelloWorld/1-Helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-ScrollView/2-ScrollView.iml" filepath="$PROJECT_DIR$/2-ScrollView/2-ScrollView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-Marquee/3-Marquee.iml" filepath="$PROJECT_DIR$/3-Marquee/3-Marquee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-BBS/4-BBS.iml" filepath="$PROJECT_DIR$/4-BBS/4-BBS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-GetDrawing/5-GetDrawing.iml" filepath="$PROJECT_DIR$/5-GetDrawing/5-GetDrawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-samples.iml" filepath="$PROJECT_DIR$/Android-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s1-LayoutDemos/s1-LayoutDemos.iml" filepath="$PROJECT_DIR$/s1-LayoutDemos/s1-LayoutDemos.iml" />
+    </modules>
+  </component>
+</project>
